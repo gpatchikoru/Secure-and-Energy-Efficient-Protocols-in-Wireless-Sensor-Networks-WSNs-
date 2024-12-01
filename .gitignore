@@ -4,3 +4,8 @@ pro/
 # Python specific ignores
 *.pyc
 __pycache__/
+*.pyc
+*.pyo
+
+# OS-specific files
+.DS_Store

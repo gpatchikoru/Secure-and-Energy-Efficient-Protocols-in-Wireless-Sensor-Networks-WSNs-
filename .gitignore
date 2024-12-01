@@ -1,0 +1,6 @@
+# Ignore the virtual environment directory
+pro/
+
+# Python specific ignores
+*.pyc
+__pycache__/
